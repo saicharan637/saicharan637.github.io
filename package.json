@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "This is a static portfolio website hosted with GitHub Pages, built to showcase my skills and recent projects.",
-  "homepage": "https://saicharan637.github.io/",
+  "homepage": "https://saicharan637.github.io",
   "version": "1.0.0",
   "private": true,
   "author": {
